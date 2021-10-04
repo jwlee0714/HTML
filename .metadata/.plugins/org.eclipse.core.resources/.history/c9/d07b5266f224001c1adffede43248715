@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<table border="1" align="center" width="550" height="200">
+	<caption><b><font size="7">표의 병합 기능</b></caption></font>
+	<tr>
+		<th colspan="5"><font size="5">IT 시간표</th></font>    
+	</tr>
+	<tr>
+		<th colspan="1"><font size="5">401호</th></font>  
+		<th><font size="5">402호</th></font> 
+		<th><font size="5">403호</th></font> 
+		<th><font size="5">404호</th></font>
+	</tr>
+	<tr>
+		<th><font size="5">09:00-12:00</th></font> 
+		<th rowspan="4"><font size="5">공<br><br>사<br><br>중</th></font> 
+		<td><font size="5">PYTHON 기 초 </td</font> 
+		<td rowspan="2"><font size="5">네트워크보안<br>실무자 양성 </td></font> 	
+		<td><font size="5">보충훈련 과정<br>(OS/네크워크) </td></font>
+	</tr>
+	<tr>
+		<th><font size="5">12:30-15:30</th></font> 
+		<td><font size="5">JAVA </td></font> 
+		<td><font size="5">보충훈련 과정<br>(언어계열) </td></font>
+	</tr>
+	<tr>
+		<th><font size="5">15:30-18:30</th></font>
+		<td><font size="5">C언어 </td></font>
+		<td rowspan="2"><font size="5">가상화 시스템<br> 엔지니어 실무자 양성 </td></font>
+		<td><font size="5">리눅스 </td></font>
+	</tr>
+	<tr>
+		<th><font size="5">19:00-22:30</th></font>  
+		<td><font size="5">PHTHON_WEB </td></font> 
+	    <td><font size="5">서버 </td></font> 
+	</tr>
+	
+	
+	
+</table>
+
+</body>
+</html>

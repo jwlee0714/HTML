@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<table border="1" align="center" width="300" height="200">
+	<caption><b>표의 병합 기능</b></caption>
+	<tr>
+		<th colspan="5">IT 시간표</td>    
+	</tr>
+	<tr>
+		<th></th>  <td>401호</td>  <th>402호</th> <th>403호</th> <th>404호</th>
+	</tr>
+	<tr>
+		<td>09:00-12:00</td> <td>공사중 </td> <th>PYTHON 기 초 </td> 
+		<td>네트워크보안 실무자 양성 </td> 	<td>보충훈련 과정(OS/네크워크) </td>
+	</tr>
+</table>
+
+</body>
+</html>

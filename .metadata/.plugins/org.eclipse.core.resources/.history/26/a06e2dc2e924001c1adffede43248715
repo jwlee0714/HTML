@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+</head>
+<!--  
+<body text="white" bgcolor="black">
+-->
+<body>
+
+<b>굵은글씨</b>
+<i>이태릭체</i>
+<u>밑줄</u>
+<sup>위 첨자</sup>
+<sub>아래첨자</sub>
+
+<hr>
+
+<font size="7"><u> <i>글</i><sub>자</sub> <b>7</b></u></font>
+<font size="6" face="궁서체" color="blue">글자 6</font>
+<font size="5" style="background-color: red">글자 5</font>
+<font size="4">글자 4</font>
+<font size="3">글자 3</font>
+<font size="2">글자 2</font>
+<font size="1">글자 1</font>
+
+<hr>
+
+<h1 style="background-color: red">문서의 주제목</h1>
+<h2>문서의 주제복 또는 부제목</h2>
+<h3>문서의 부제목 또는 내용</h3>
+<h4>문서의 내용</h4>
+<h5>문서의 내용</h5>
+<h6>문서의 내용</h6>
+
+<hr>
+	단락
+	<p>구분</p>
+	태그
+	
+<hr>
+<!--
+안<br> 녕<br> 하<br> 세<br> 요<br> 주석 
+-->
+수정내용<br> 
+떕
+</body>
+</html>
