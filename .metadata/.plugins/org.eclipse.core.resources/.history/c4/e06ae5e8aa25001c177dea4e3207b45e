@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<form action="day01.html">
+		<input type="text" placeholder="input id"><br>
+		<input type="password" placeholder="input password"><br>
+		<input type="submit" value="서브밋">
+		<input type="reset" value="초기화">
+		<input type="button" value="비어튼">
+	</form>
+	
+<hr>
+
+-취미-<br>
+열심히 공부<input type="checkbox">
+그냥 공부<input type="checkbox">
+빡공<input type="checkbox"> 
+
+<hr>
+
+10대<input type="radio" name="age">
+20대<input type="radio" name="age" checked>
+30대<input type="radio" name="age">
+
+<hr>
+
+	<input type="button" value="버어튼"><br>
+	<input type="submit" value="서브밋"><br>
+	<input type="reset" value="초기화"><br>
+	<input type="text" value ="내용"><br>
+	<input type="password" value="비밀번호"><br>
+	<input type="radio"><br>
+	<input type="checkbox"><br>
+	
+	
+</body>
+</html>

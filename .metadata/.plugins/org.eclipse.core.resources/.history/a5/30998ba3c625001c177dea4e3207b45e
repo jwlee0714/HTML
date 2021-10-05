@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>
+		<h1> 제 목 글</h1>
+	</header>
+	
+	<nav>
+	111
+	</nav>
+
+
+<hr>
+	header : 문서의 상위<br>
+	footer : 문서의 하단<br>
+	nav : 문서의 navigation
+	section : 문서의 영역을 구성하며, 문서 구조를 구성하는 h1~h6와 함께 사용한다<br>
+	article : 뉴스기사나 블러그 내용글과 같은 독립된 contents를 표시<br>
+	aside : 주요 컨텐츠 이외의 참고가 될 수 있는 컨텐츠 구성<br>
+	figure : 그림, 비디오와 같은 포함된 컨텐트<br>
+	figcatption : 캡션에 사용(이미지, 동영상, 부연설명)
+	
+</body>
+</html>
